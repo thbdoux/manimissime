@@ -1,4 +1,4 @@
-# 🎬✨ Manimissime
+# 🎬✨*Manimissime*✨
 
 **Manimissime** est un outil innovant permettant de générer automatiquement des vidéos mathématiques animées avec **Manim** à partir d'un simple prompt textuel. Ce projet exploite la puissance des LLM et une architecture multi-agents pour offrir une expérience fluide et intelligente dans la création de contenus pédagogiques.
 
