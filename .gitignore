@@ -1,0 +1,6 @@
+.env
+*env*
+*pycache*
+*media*
+generated_videos/
+temp_manim_code/

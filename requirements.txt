@@ -1,0 +1,8 @@
+langchain
+langchain-openai
+manim
+Pillow
+python-dotenv
+numpy
+opencv-python
+streamlit
